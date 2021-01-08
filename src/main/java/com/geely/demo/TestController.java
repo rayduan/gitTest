@@ -12,5 +12,9 @@ package com.geely.demo;
  */
 
 public class TestController {
+  
+  public void getName(String name){
+    return name;
+  }
 
 }
